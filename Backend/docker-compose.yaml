@@ -1,0 +1,52 @@
+#jika error hapus dulu ininya "rm public/storage"
+#jika ingin buat akses public dari storage minio
+# docker exec -it laravel_minio sh
+# mc alias set myminio http://localhost:9000 minio minio123
+
+services:
+  frankenphp_laravel:
+    build:
+      context: .
+    container_name: frankenphp_laravel
+    depends_on:
+      # - mysql
+      - redis
+      - minio
+    ports:
+      - "8081:8000"
+      - "8080:8080"
+    volumes:
+      - .:/app
+    networks:
+      - laravel_network
+
+  minio:
+    image: minio/minio
+    container_name: laravel_minio
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER: minio
+      MINIO_ROOT_PASSWORD: minio123
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    volumes:
+      - minio_data:/data
+    networks:
+      - laravel_network
+
+  redis:
+    image: redis:7
+    container_name: redis_cache
+    ports:
+      - "6379:6379"
+    networks:
+      - laravel_network
+
+networks:
+  laravel_network:
+    driver: bridge
+
+volumes:
+  minio_data:
+  # mysql_data:
