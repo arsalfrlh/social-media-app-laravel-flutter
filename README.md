@@ -18,7 +18,9 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 📸 **Demo Screenshot**
 
-![Post Feed](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/post.png)
+![Post Feed](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/1.jpg)
+
+![Post Feed](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/2.jpg)
 
 ---
 
@@ -31,7 +33,7 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 📸 **Demo Screenshot**
 
-![Reels](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/reels.png)
+![Reels](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/3.jpg)
 
 ---
 
@@ -45,9 +47,9 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 📸 **Demo Screenshot**
 
-![Chat](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/message_us.png)
+![Chat](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/4.jpg)
 
-![Chat](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/message.png)
+![Chat](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/5.jpg)
 
 ---
 
@@ -55,10 +57,6 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 * Like and unlike posts
 * Engagement tracking
-
-📸 **Demo Screenshot**
-
-![Post Feed](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/like.png)
 
 ---
 
@@ -70,7 +68,7 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 📸 **Demo Screenshot**
 
-![Comment](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/comment.png)
+![Comment](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/6.jpg)
 
 ---
 
@@ -82,7 +80,7 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 📸 **Demo Screenshot**
 
-![Follow](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/profile_us.png)
+![Follow](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/7.jpg)
 
 ---
 
@@ -94,9 +92,9 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 📸 **Demo Screenshot**
 
-![Profile](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/reels_prof.png)
+![Profile](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/8.jpg)
 
-![Profile](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/profile.png)
+![Profile](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/9.jpg)
 
 🎥 **Demo Video**
 
@@ -610,3 +608,8 @@ docker compose up --build -d
 ---
 
 🚀 All services are now accessible and ready for development.
+
+## 📜 License
+
+This project is open-sourced under a custom MIT License with attribution requirement.  
+You are free to use and modify this project, but you must give proper credit to the original author.
