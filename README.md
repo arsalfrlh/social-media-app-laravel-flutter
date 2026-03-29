@@ -18,9 +18,10 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 📸 **Demo Screenshot**
 
-![Post Feed](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/1.jpg)
-
-![Post Feed](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/2.jpg)
+<p align="center">
+  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/1.jpg" width="450"/>
+  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/2.jpg" width="450"/>
+</p>
 
 ---
 
@@ -33,7 +34,9 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 📸 **Demo Screenshot**
 
-![Reels](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/3.jpg)
+<p align="center">
+  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/3.jpg" width="450"/>
+</p>
 
 ---
 
@@ -47,9 +50,10 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 📸 **Demo Screenshot**
 
-![Chat](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/4.jpg)
-
-![Chat](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/5.jpg)
+<p align="center">
+  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/4.jpg" width="450"/>
+  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/5.jpg" width="450"/>
+</p>
 
 ---
 
@@ -68,7 +72,9 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 📸 **Demo Screenshot**
 
-![Comment](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/6.jpg)
+<p align="center">
+  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/6.jpg" width="450"/>
+</p>
 
 ---
 
@@ -80,7 +86,9 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 📸 **Demo Screenshot**
 
-![Follow](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/7.jpg)
+<p align="center">
+  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/7.jpg" width="450"/>
+</p>
 
 ---
 
@@ -92,13 +100,18 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 📸 **Demo Screenshot**
 
-![Profile](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/8.jpg)
-
-![Profile](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/9.jpg)
+<p align="center">
+  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/8.jpg" width="450"/>
+  <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/9.jpg" width="450"/>
+</p>
 
 🎥 **Demo Video**
 
-[Watch Demo](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/video.mp4)
+<p align="center">
+  <a href="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/video.mp4">
+    <img src="https://your-thumbnail-image.png" width="600"/>
+  </a>
+</p>
 
 ---
 
