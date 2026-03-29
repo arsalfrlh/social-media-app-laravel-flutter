@@ -137,12 +137,12 @@ Powered by **Laravel Reverb (WebSocket)**:
 
 ## 📌 Notes
 
-* Replace all image URLs with your actual screenshots.
-* Replace video URLs with demo recordings (MP4 / YouTube / Drive).
+* Replace all image with your actual screenshots.
+* Replace video with demo recordings (MP4).
 * Recommended format:
 
   * Images: PNG / JPG
-  * Videos: MP4 or YouTube embed
+  * Videos: MP4
 
 ---
 
