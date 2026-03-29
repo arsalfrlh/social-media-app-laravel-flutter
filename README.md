@@ -18,7 +18,7 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 📸 **Demo Screenshot**
 
-![Post Feed](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/post.png.png)
+![Post Feed](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/post.png)
 
 ---
 
