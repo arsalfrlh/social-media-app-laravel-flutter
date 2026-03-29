@@ -96,7 +96,7 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 ![Profile](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/reels_prof.png)
 
-![Profile](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/post_up.png)
+![Profile](https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/profile.png)
 
 🎥 **Demo Video**
 
