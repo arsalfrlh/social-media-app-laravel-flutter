@@ -109,7 +109,7 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 <p align="center">
   <a href="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/video.mp4">
-    <img src="https://your-thumbnail-image.png" width="600"/>
+    <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/thumb.jpg" width="600"/>
   </a>
 </p>
 
