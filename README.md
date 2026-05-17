@@ -1,22 +1,22 @@
-# 🚀 Realtime Social Media App
+# Realtime Social Media App
 
 A fullstack social media platform with realtime chat, reels video streaming, and modern scalable architecture using Laravel, Flutter, WebSocket, Redis, and Docker.
 
-# ✨ Features & Demo
+# Features & Demo
 
 This project is a **Modern Social Media Application** that provides real-time interaction, media sharing, and user engagement features similar to popular platforms like Instagram and TikTok.
 
 ---
 
-## 🚀 Core Features
+## Core Features
 
-### 📝 Post System
+### Post System
 
 * Upload posts (image / media)
 * View posts in home feed
 * Explore other users' posts
 
-📸 **Demo Screenshot**
+**Demo Screenshot**
 
 <p align="center">
   <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/1.jpg" width="250"/>
@@ -25,14 +25,14 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 ---
 
-### 🎬 Reels (Short Video)
+### Reels (Short Video)
 
 * Watch short-form videos
 * Vertical scrolling (like TikTok / Instagram Reels)
 * Smooth and continuous playback
 * Media streaming support
 
-📸 **Demo Screenshot**
+**Demo Screenshot**
 
 <p align="center">
   <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/3.jpg" width="250"/>
@@ -40,7 +40,7 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 ---
 
-### 💬 Realtime Messaging
+### Realtime Messaging
 
 * Send messages instantly (WebSocket)
 * Update messages in real-time
@@ -48,7 +48,7 @@ This project is a **Modern Social Media Application** that provides real-time in
 * Presence system (online/offline users)
 * Live chat updates without refresh
 
-📸 **Demo Screenshot**
+**Demo Screenshot**
 
 <p align="center">
   <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/4.jpg" width="250"/>
@@ -57,20 +57,20 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 ---
 
-### ❤️ Like System
+### Like System
 
 * Like and unlike posts
 * Engagement tracking
 
 ---
 
-### 💬 Comment System
+### Comment System
 
 * Add comments to posts
 * View all comments
 * Interactive discussions
 
-📸 **Demo Screenshot**
+**Demo Screenshot**
 
 <p align="center">
   <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/6.jpg" width="250"/>
@@ -78,13 +78,13 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 ---
 
-### 👥 Follow System
+### Follow System
 
 * Follow / unfollow users
 * Personalized feed based on following
 * User relationship system
 
-📸 **Demo Screenshot**
+**Demo Screenshot**
 
 <p align="center">
   <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/7.jpg" width="250"/>
@@ -92,20 +92,20 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 ---
 
-### 👤 User Profile
+### User Profile
 
 * View user profile
 * Display posts, followers, and following
 * Profile customization (bio, image, etc.)
 
-📸 **Demo Screenshot**
+**Demo Screenshot**
 
 <p align="center">
   <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/8.jpg" width="250"/>
   <img src="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/9.jpg" width="250"/>
 </p>
 
-🎥 **Demo Video**
+**Demo Video**
 
 <p align="center">
   <a href="https://github.com/arsalfrlh/social-media-app-laravel-flutter/blob/main/Demo/video.mp4">
@@ -115,18 +115,18 @@ This project is a **Modern Social Media Application** that provides real-time in
 
 ---
 
-## ⚡ Realtime Capabilities
+## Realtime Capabilities
 
 Powered by **Laravel Reverb (WebSocket)**:
 
-* 🔥 Live chat updates
-* 🟢 Online / Offline user presence
-* ⚡ Instant UI updates
-* 🚫 No page refresh required
+* Live chat updates
+* Online / Offline user presence
+* Instant UI updates
+* No page refresh required
 
 ---
 
-## 🧠 System Highlights
+## System Highlights
 
 * **Backend**: Laravel + Octane + FrankenPHP
 * **Realtime**: Laravel Reverb (WebSocket)
@@ -137,7 +137,7 @@ Powered by **Laravel Reverb (WebSocket)**:
 
 ---
 
-## 🎯 User Experience
+## User Experience
 
 * Smooth scrolling (Feed & Reels)
 * Real-time interaction
@@ -146,7 +146,7 @@ Powered by **Laravel Reverb (WebSocket)**:
 
 ---
 
-## 📌 Notes
+## Notes
 
 * Replace all image with your actual screenshots.
 * Replace video with demo recordings (MP4).
@@ -157,17 +157,17 @@ Powered by **Laravel Reverb (WebSocket)**:
 
 ---
 
-# 🧠 Technology Stack & Architecture
+# Technology Stack & Architecture
 
 This project is built using a **modern, scalable, and real-time architecture** combining backend, frontend, and infrastructure technologies.
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 The system follows a combination of modern architectural patterns:
 
-### 🧩 Backend Architecture
+### Backend Architecture
 
 * **MVC (Model-View-Controller)** – Laravel standard architecture
 * **Event-Driven Architecture** – for real-time updates (chat, notifications)
@@ -177,7 +177,7 @@ The system follows a combination of modern architectural patterns:
 
 ---
 
-### 📱 Frontend Architecture
+### Frontend Architecture
 
 * **MVVM (Model-View-ViewModel)** – separation of UI and business logic
 * **State Management**:
@@ -187,7 +187,7 @@ The system follows a combination of modern architectural patterns:
 
 ---
 
-### 🔄 Communication Protocols
+### Communication Protocols
 
 * **HTTP (REST API)** → for standard requests (posts, auth, etc.)
 * **WebSocket (Realtime)** → for:
@@ -198,9 +198,9 @@ The system follows a combination of modern architectural patterns:
 
 ---
 
-## ⚙️ Backend Technologies (Laravel Ecosystem)
+## Backend Technologies (Laravel Ecosystem)
 
-### 🚀 Core Backend
+### Core Backend
 
 * Laravel (API Framework)
 * Laravel Octane (High performance server)
@@ -208,7 +208,7 @@ The system follows a combination of modern architectural patterns:
 
 ---
 
-### ⚡ Realtime System
+### Realtime System
 
 * Laravel Reverb (WebSocket server)
 * Broadcasting System (Events & Channels)
@@ -216,7 +216,7 @@ The system follows a combination of modern architectural patterns:
 
 ---
 
-### 🧵 Queue & Background Jobs
+### Queue & Background Jobs
 
 * Laravel Queue
 * Redis (Queue driver)
@@ -224,7 +224,7 @@ The system follows a combination of modern architectural patterns:
 
 ---
 
-### 💾 Database & ORM
+### Database & ORM
 
 * MySQL (via Laragon)
 * Eloquent ORM
@@ -232,7 +232,7 @@ The system follows a combination of modern architectural patterns:
 
 ---
 
-### 🔐 Authentication & Security
+### Authentication & Security
 
 * Laravel Sanctum (API Authentication)
 * Rate Limiting (API protection)
@@ -240,7 +240,7 @@ The system follows a combination of modern architectural patterns:
 
 ---
 
-### ⚡ Caching & Performance
+### Caching & Performance
 
 * Redis (Cache, Session, Queue)
 * Laravel Cache System
@@ -248,14 +248,14 @@ The system follows a combination of modern architectural patterns:
 
 ---
 
-### 📂 File Storage & Media
+### File Storage & Media
 
 * MinIO (S3-compatible object storage)
 * Laravel Filesystem (S3 driver)
 
 ---
 
-### 🎥 Video Processing (Reels)
+### Video Processing (Reels)
 
 * FFmpeg (video processing)
 * HLS (HTTP Live Streaming)
@@ -263,7 +263,7 @@ The system follows a combination of modern architectural patterns:
 
 ---
 
-### 📡 API Features
+### API Features
 
 * RESTful API design
 * JSON-based communication
@@ -272,36 +272,36 @@ The system follows a combination of modern architectural patterns:
 
 ---
 
-## 📱 Frontend Technologies (Flutter)
+## Frontend Technologies (Flutter)
 
-### 🎯 Core
+### Core
 
 * Flutter (Cross-platform mobile framework)
 * Dart (Programming language)
 
 ---
 
-### 🌐 Networking
+### Networking
 
 * Dio (HTTP client)
 * WebSocket Channel (Realtime communication)
 
 ---
 
-### 🧠 State Management
+### State Management
 
 * Provider (main state management)
 * setState (UI-level updates)
 
 ---
 
-### 💾 Local Storage
+### Local Storage
 
 * SharedPreferences (local persistence)
 
 ---
 
-### 🎬 Media Handling
+### Media Handling
 
 * Video Player (reels playback)
 * File Picker (upload media)
@@ -309,7 +309,7 @@ The system follows a combination of modern architectural patterns:
 
 ---
 
-### 🎨 UI & UX
+### UI & UX
 
 * Material Design
 * Flutter SVG (vector assets)
@@ -317,16 +317,16 @@ The system follows a combination of modern architectural patterns:
 
 ---
 
-## 🐳 DevOps & Infrastructure
+## DevOps & Infrastructure
 
-### 🐳 Containerization
+### Containerization
 
 * Docker
 * Docker Compose
 
 ---
 
-### 🌐 Services
+### Services
 
 * Redis (cache, queue, session)
 * MinIO (object storage)
@@ -334,14 +334,14 @@ The system follows a combination of modern architectural patterns:
 
 ---
 
-### 🔗 Networking
+### Networking
 
 * Docker Bridge Network
 * Service-to-service communication
 
 ---
 
-## 🔄 System Flow (Simplified)
+## System Flow (Simplified)
 
 1. User interacts via Flutter App
 2. Request sent via HTTP (Dio) → Laravel API
@@ -353,18 +353,18 @@ The system follows a combination of modern architectural patterns:
 
 ---
 
-## ⚡ Key Highlights
+## Key Highlights
 
-* 🔥 High performance backend using **Laravel Octane + FrankenPHP**
-* ⚡ Realtime system using **WebSocket (Reverb)**
-* 📦 Scalable infrastructure with **Docker**
-* 🎥 Advanced media handling using **HLS streaming**
-* 🧠 Clean architecture (MVC + MVVM + Event Driven)
-* 🚀 Optimized performance with **Redis & Queue system**
+* High performance backend using **Laravel Octane + FrankenPHP**
+* Realtime system using **WebSocket (Reverb)**
+* Scalable infrastructure with **Docker**
+* Advanced media handling using **HLS streaming**
+* Clean architecture (MVC + MVVM + Event Driven)
+* Optimized performance with **Redis & Queue system**
 
 ---
 
-## 🎯 Design Principles
+## Design Principles
 
 * Separation of Concerns
 * Scalability & Performance
@@ -374,13 +374,13 @@ The system follows a combination of modern architectural patterns:
 
 ---
 
-# 🌐 Services & Access
+# Services & Access
 
 This section provides access details for all services used in this project, including database, storage, WebSocket, Redis, and Docker containers.
 
 ---
 
-## 🐳 Docker Containers
+## Docker Containers
 
 ### List Running Containers
 
@@ -396,7 +396,7 @@ docker exec -it frankenphp_laravel bash
 
 ---
 
-## 🗄️ Database (MySQL - Laragon)
+## Database (MySQL - Laragon)
 
 This project uses **external MySQL (Laragon)** instead of a Docker container.
 
@@ -426,7 +426,7 @@ mysql -h 127.0.0.1 -P 3308 -u root
 
 ---
 
-## ⚡ Redis (Cache, Queue, Session)
+## Redis (Cache, Queue, Session)
 
 Redis is used for:
 
@@ -459,7 +459,7 @@ PONG
 
 ---
 
-## 🗂️ Object Storage (MinIO - S3)
+## Object Storage (MinIO - S3)
 
 MinIO is used as an S3-compatible storage for:
 
@@ -496,11 +496,11 @@ http://localhost:9000
 laravel
 ```
 
-> ⚠️ Make sure to create the bucket manually if it does not exist.
+> Make sure to create the bucket manually if it does not exist.
 
 ---
 
-## 🔌 WebSocket (Laravel Reverb)
+## WebSocket (Laravel Reverb)
 
 Used for:
 
@@ -544,7 +544,7 @@ REVERB_PORT=8080
 
 ---
 
-## 🌍 Laravel API
+## Laravel API
 
 Base URL:
 
@@ -562,7 +562,7 @@ http://localhost:8081/api/message/{user_id}
 
 ---
 
-## 📦 Queue Worker
+## Queue Worker
 
 Queue is used for:
 
@@ -580,7 +580,7 @@ php artisan queue:work
 
 ---
 
-## 🧪 Useful Debug Commands
+## Useful Debug Commands
 
 ### Check Logs
 
@@ -607,7 +607,7 @@ docker compose up --build -d
 
 ---
 
-## ✅ Summary
+## Summary
 
 | Service     | URL / Command                           |
 | ----------- | --------------------------------------- |
@@ -620,9 +620,9 @@ docker compose up --build -d
 
 ---
 
-🚀 All services are now accessible and ready for development.
+All services are now accessible and ready for development.
 
-## 📜 License
+## License
 
 This project is open-sourced under a custom MIT License with attribution requirement.  
 You are free to use and modify this project, but you must give proper credit to the original author.
